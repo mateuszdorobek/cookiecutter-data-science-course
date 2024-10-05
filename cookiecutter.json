@@ -1,0 +1,7 @@
+{
+    "project_name": "Data Science Course",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "first_track": "{{ cookiecutter.first_track.lower().replace(' ', '_') }}",
+    "author_name": "Your name",
+    "description": "A short description of the project."
+}

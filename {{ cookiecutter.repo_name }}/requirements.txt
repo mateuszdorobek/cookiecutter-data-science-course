@@ -1,0 +1,30 @@
+## Data processing tools
+numpy
+pandas
+
+## Visualization tools
+matplotlib
+seaborn
+
+## Notebooks
+jupyter
+jupyterlab
+
+## Machine learning tools
+scipy
+scikit-learn
+
+## Deep learning tools
+# tensorflow
+# pytorch
+# keras
+
+## Web scrapping tools
+# requests
+# BeautifulSoup4
+
+## Other utils
+# lxml
+# xlrd
+click
+python-dotenv
