@@ -1,6 +1,6 @@
 ## Data processing tools
-numpy
 pandas
+numpy
 
 ## Visualization tools
 matplotlib
@@ -13,18 +13,3 @@ jupyterlab
 ## Machine learning tools
 scipy
 scikit-learn
-
-## Deep learning tools
-# tensorflow
-# pytorch
-# keras
-
-## Web scrapping tools
-# requests
-# BeautifulSoup4
-
-## Other utils
-# lxml
-# xlrd
-click
-python-dotenv
