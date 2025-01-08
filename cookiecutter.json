@@ -1,4 +1,2 @@
 {
-    "project_name": "Data Science Course",
-    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
 }
